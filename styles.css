@@ -187,10 +187,10 @@ header::before {
 
 .header__content h1 {
   margin-bottom: 2rem;
-  font-size: 1.5rem;
+  font-size: 1rem;
   font-weight: 600;
   color: var(--text-dark);
-  line-height: 2.5rem;
+  line-height: 2rem;
   text-align: center;
 }
 
@@ -768,4 +768,5 @@ footer {
     gap: 2rem;
   }
 }
+
 
