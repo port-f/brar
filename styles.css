@@ -6,7 +6,7 @@
   --text-dark: #0a0a0a;
   --text-light: #737373;
   --extra-light: #f3f4f6;
-  --extra-light-1: #f3f4f6;
+  --extra-light-1: #fff9ff;
   --white: #ffffff;
   --max-width: 1200px;
 }
@@ -769,6 +769,7 @@ footer {
     gap: 2rem;
   }
 }
+
 
 
 
