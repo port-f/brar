@@ -102,7 +102,7 @@ nav {
 }
 
 .nav__logo .logo {
-  height: 1.5rem;
+  height: 0.5rem;
 }
 
 .nav__menu__btn {
@@ -768,6 +768,7 @@ footer {
     gap: 2rem;
   }
 }
+
 
 
 
