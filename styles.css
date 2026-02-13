@@ -102,8 +102,7 @@ nav {
 }
 
 .nav__logo .logo {
-  font-size: 1.5rem;
-  color: var(--white);
+  height: 5.5rem;
 }
 
 .nav__menu__btn {
@@ -769,6 +768,7 @@ footer {
     gap: 2rem;
   }
 }
+
 
 
 
