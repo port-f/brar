@@ -68,7 +68,7 @@ img {
 
 .nav__logo .logo__1 {
   display: flex;
-  width: 2%;
+  width: 25%;
 }
 
 a {
@@ -774,6 +774,7 @@ footer {
     gap: 2rem;
   }
 }
+
 
 
 
