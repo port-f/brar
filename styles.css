@@ -65,10 +65,10 @@ img {
   display: flex;
   width: 100%;
 }
-}
+
 .nav__logo .logo__1 {
   display: flex;
-  width: 1%;
+  width: 12%;
 }
 
 a {
@@ -774,6 +774,7 @@ footer {
     gap: 2rem;
   }
 }
+
 
 
 
