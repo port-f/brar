@@ -169,7 +169,7 @@ header::before {
   transform: translate(-50%, -50%);
   background-image: url("assets/20.jpeg");
   background-position: center center;
-  background-size: auto 120%;
+  background-size: auto 300%;
   
   background-repeat: no-repeat;
   border-radius: 3rem;
@@ -775,6 +775,7 @@ footer {
     gap: 2rem;
   }
 }
+
 
 
 
