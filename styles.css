@@ -170,7 +170,7 @@ header::before {
   background-image: url("assets/20.jpeg");
   background-position: center center;
   background-size: cover;
-  min-height:60vh;
+  min-height:70vh;
   background-repeat: no-repeat;
   border-radius: 3rem;
   z-index: -1;
@@ -775,6 +775,7 @@ footer {
     gap: 2rem;
   }
 }
+
 
 
 
